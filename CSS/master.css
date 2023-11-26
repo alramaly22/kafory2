@@ -540,7 +540,7 @@ img {
 
 .home__img {
   background-attachment: fixed;
-  background-image:  url(../IMAGES/home1.png);  background-size: cover;
+  background-image:  url(../IMAGES/websitedesk.png);  background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
   position: absolute;
@@ -738,7 +738,7 @@ display: block;
 @media (min-width: 750px) and (max-width: 1099px){
 .home__img{
   background-attachment: fixed;
-  background-image: url(../images/home2.png); 
+  background-image: url(../images/websitedesk.png); 
    background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
